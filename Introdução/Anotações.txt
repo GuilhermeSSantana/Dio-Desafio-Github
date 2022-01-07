@@ -1,0 +1,8 @@
+Comando Git
+
+Git clone link HTTP
+
+Cd tab
+
+Git status
+
